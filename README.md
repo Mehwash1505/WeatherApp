@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Weather Dashboard 
  
 A responsive, real-time weather application that provides current weather conditions and a 5-day forecast for cities worldwide. Built with HTML5, Bootstrap 5, and the OpenWeatherMap API.
 
@@ -60,3 +60,4 @@ View the current weather details and the 5-day forecast cards below.
 License
 
 This project is open-source and available for personal and educational use.
+
